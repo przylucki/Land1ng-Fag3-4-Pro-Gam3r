@@ -4,4 +4,4 @@
 
 Source code of a simple gamer's page, built using HTML, CSS, and JavaScript.
 
-[LIVE VIEW](https://github.com/przylucki/Land1ng-Fag3-4-Pro-Gam3r)
+[LIVE VIEW](https://przylucki.github.io/Land1ng-Fag3-4-Pro-Gam3r)
